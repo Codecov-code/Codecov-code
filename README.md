@@ -12,4 +12,4 @@ The primary aim of this project is to explore and demonstrate various functional
 
 As an independent developer, I am committed to fostering an open-source environment where ideas can be shared and discussed freely. I welcome contributions and feedback from the community, and I encourage collaboration that adheres to the principles of transparency and respect for intellectual property.
 
-Please see SECURITY, COOKIES, TERMS-OF-SERVICE, PRIVACY-POLICY
+Please see SECURITY, TERMS-OF-SERVICE, PRIVACY-POLICY
